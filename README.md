@@ -18,3 +18,5 @@ SplashScreen composable
 Navigation with NavHost
 ShoppingViewModel for ShoppingListScreen
 Room database
+
+![image](https://github.com/user-attachments/assets/ccf260bd-898a-4b25-bddf-ca97d93a1b56)
