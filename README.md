@@ -20,3 +20,5 @@ ShoppingViewModel for ShoppingListScreen
 Room database
 
 ![image](https://github.com/user-attachments/assets/ccf260bd-898a-4b25-bddf-ca97d93a1b56)
+
+![image](https://github.com/user-attachments/assets/6a8b00c1-c4fd-496c-9840-0e50ac1bff49)
